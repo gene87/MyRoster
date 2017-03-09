@@ -1,0 +1,10 @@
+c:\users\eugene\documents\visual studio 2015\Projects\MyRoster\MyRoster\bin\Debug\MyRoster.exe.config
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.MyRoster.resources
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.Properties.Resources.resources
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.csproj.GenerateResource.Cache
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\bin\Debug\MyRoster.exe
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\bin\Debug\MyRoster.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.exe
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\MyRoster\MyRoster\obj\Debug\MyRoster.Form2.resources
